@@ -128,7 +128,7 @@ class ArticleView extends Component {
 
 
                             <div>
-                                <a className="response-icon-wrapper" href="https://my-medium-clone.herokuapp.com/posts/it-s-looking-good#responses">
+                                <a className="response-icon-wrapper" href="https://blogio.herokuapp.com/posts/it-s-looking-good#responses">
                                     <i className="fa fa-comment-o"></i>
                                     <span className="response-count" data-behavior="response-count">0</span>
                                 </a>
